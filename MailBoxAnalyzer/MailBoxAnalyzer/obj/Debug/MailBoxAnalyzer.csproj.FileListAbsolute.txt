@@ -1,0 +1,12 @@
+G:\OneDrive\OneDrive - UAb\UAB\2a2s 21179 - Laboratório de Desenvolvimento de Software\Projetos\MailBoxAnalyzer\MailBoxAnalyzer\bin\Debug\MailBoxAnalyzer.exe.config
+G:\OneDrive\OneDrive - UAb\UAB\2a2s 21179 - Laboratório de Desenvolvimento de Software\Projetos\MailBoxAnalyzer\MailBoxAnalyzer\bin\Debug\MailBoxAnalyzer.exe
+G:\OneDrive\OneDrive - UAb\UAB\2a2s 21179 - Laboratório de Desenvolvimento de Software\Projetos\MailBoxAnalyzer\MailBoxAnalyzer\bin\Debug\MailBoxAnalyzer.pdb
+G:\OneDrive\OneDrive - UAb\UAB\2a2s 21179 - Laboratório de Desenvolvimento de Software\Projetos\MailBoxAnalyzer\MailBoxAnalyzer\obj\Debug\MailBoxAnalyzer.csprojResolveAssemblyReference.cache
+G:\OneDrive\OneDrive - UAb\UAB\2a2s 21179 - Laboratório de Desenvolvimento de Software\Projetos\MailBoxAnalyzer\MailBoxAnalyzer\obj\Debug\MailBoxAnalyzer.Form1.resources
+G:\OneDrive\OneDrive - UAb\UAB\2a2s 21179 - Laboratório de Desenvolvimento de Software\Projetos\MailBoxAnalyzer\MailBoxAnalyzer\obj\Debug\MailBoxAnalyzer.Properties.Resources.resources
+G:\OneDrive\OneDrive - UAb\UAB\2a2s 21179 - Laboratório de Desenvolvimento de Software\Projetos\MailBoxAnalyzer\MailBoxAnalyzer\obj\Debug\MailBoxAnalyzer.csproj.GenerateResource.Cache
+G:\OneDrive\OneDrive - UAb\UAB\2a2s 21179 - Laboratório de Desenvolvimento de Software\Projetos\MailBoxAnalyzer\MailBoxAnalyzer\obj\Debug\MailBoxAnalyzer.exe
+G:\OneDrive\OneDrive - UAb\UAB\2a2s 21179 - Laboratório de Desenvolvimento de Software\Projetos\MailBoxAnalyzer\MailBoxAnalyzer\obj\Debug\MailBoxAnalyzer.pdb
+G:\OneDrive\OneDrive - UAb\UAB\2a2s 21179 - Laboratório de Desenvolvimento de Software\Projetos\MailBoxAnalyzer\MailBoxAnalyzer\bin\Debug\OpenPop.dll
+G:\OneDrive\OneDrive - UAb\UAB\2a2s 21179 - Laboratório de Desenvolvimento de Software\Projetos\MailBoxAnalyzer\MailBoxAnalyzer\bin\Debug\OpenPop.pdb
+G:\OneDrive\OneDrive - UAb\UAB\2a2s 21179 - Laboratório de Desenvolvimento de Software\Projetos\MailBoxAnalyzer\MailBoxAnalyzer\bin\Debug\OpenPop.xml
